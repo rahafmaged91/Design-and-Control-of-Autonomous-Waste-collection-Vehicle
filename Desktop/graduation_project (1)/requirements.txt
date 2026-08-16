@@ -1,0 +1,14 @@
+# Core (required to run the GUI at all)
+# tkinter ships with the standard Python installer on Windows/macOS.
+# On Linux, install it via your package manager, e.g.:
+#   sudo apt install python3-tk
+
+# Vision / lane tracking (STATE 1)
+opencv-python>=4.8
+numpy>=1.24
+
+# Live camera preview in the GUI
+pillow>=10.0
+
+# AprilTag centering (STATE 2a) - optional, STATE 2 is disabled without it
+pupil_apriltags>=1.0.4
