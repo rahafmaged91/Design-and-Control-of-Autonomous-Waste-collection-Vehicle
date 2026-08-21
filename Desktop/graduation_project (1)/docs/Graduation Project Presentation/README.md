@@ -1,6 +1,6 @@
 # Presentation
 
-This folder contains the presentation used for the graduation project.
+This file contains the presentation link used for the graduation project.
 
 ## Presentation File
 
